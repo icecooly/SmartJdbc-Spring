@@ -4,7 +4,7 @@
 
 	<groupId>com.github.icecooly</groupId>
 	<artifactId>SmartJdbc-Spring</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<packaging>jar</packaging>
 	<name>SmartJdbc-Spring</name>
 	<url>https://github.com/icecooly/SmartJdbc-Spring</url>
