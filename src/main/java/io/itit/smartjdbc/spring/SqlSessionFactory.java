@@ -43,7 +43,7 @@ public class SqlSessionFactory implements TransactionManager,SqlInterceptor {
 	//
 	/**
 	 * 
-	 * @return
+	 * @return 
 	 */
 	public SqlSession getSession() {
 		if (TransactionSynchronizationManager.hasResource(this)) {
